@@ -4,7 +4,6 @@
 
 ## About: 
 This is a very simple Max 4 Live device that controls Ableton Live's main Crossfader directly. No additional mapping necesssary. What is unique to this device is that it also works with Push 3 Standalone.
-<img width="1920" height="1200" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/7ce26ce9-9707-47d1-9a4d-92172b0d8d39" />
 
 ## Download:
 On main page of the repository click on green **(<>Code)** button and from drop down click **Downlaod Zip**.
